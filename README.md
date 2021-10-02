@@ -1,5 +1,5 @@
 # SSOO-tarea01
-Italo López Meza
-italo.lopez@alumnos.uv.cl
+Autor: Italo López Meza
+Correo institucional: italo.lopez@alumnos.uv.cl
 
 Sistemas Operativos UV
